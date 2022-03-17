@@ -8,9 +8,9 @@ description:
   First Year PhD Student in Linguistics @USC
 owner: Muxuan He # or company name
 first_published: # if migrating another site, the year of your first publish
-email: yifanyang08@outlook.com
+email: muxuanhe@usc.edu
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yifanyang08.github.io" # the base hostname & protocol for your site
+url: "http://MuxuanHe.github.io" # the base hostname & protocol for your site
 social:
   github: https://github.com/MuxuanHe
   #linkedin-square: https://linkedin.com/in/yifanyang08
