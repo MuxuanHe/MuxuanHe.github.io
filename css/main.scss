@@ -1301,7 +1301,7 @@ $baseurl: '{{ site.baseurl }}/images';
 		@include vendor('transition', 'transform #{_duration(menu)} ease');
 		-webkit-overflow-scrolling: touch;
 		background: white;
-		color: darksalmon;
+		color: black;
 		height: 100%;
 		max-width: 80%;
 		overflow-y: auto;
