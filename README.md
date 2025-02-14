@@ -1,4 +1,4 @@
-# academic
+# This is a template that I use (link below). I kept this README so I can be reminded of how to use everything.
 
 ### A Jekyll theme for academia
 
