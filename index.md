@@ -3,9 +3,8 @@ layout: home
 title: "Home"
 ---
 
-I'm a fourth-year PhD student in linguistics at the University of Southern California.
+Hi! I'm Muxuan, a fourth-year PhD student in linguistics at the University of Southern California.
 
-My research interests are primarily in phonology, morphology, and experimental/lab phonology. I'm advised by [Stephanie Shih](https://stephsus.github.io/) and [Louis Goldstein](https://sail.usc.edu/~lgoldste/me/), and I'm especially interested in the relationship between the phonological grammar and the lexicon. Much of my research focuses on the phonological and lexical representations of morphologically complex words. I've worked extensively on the phonology of affixed words, and have most recently concentrated my work on phonological exceptionality and its association with particular affixes. 
+As a psycholinguist, I study how comprehenders/listeners perceive and process information received, espeically at the pragmatics level. Some of the questions that leads to include whether different kinds of information treated equally and what do comprehenders actually gain from the information received. In my research, I work with behavioral data that uncovers real-time sentence processing and off-line sentence interpretation that probes pragmatic inferences. A key aspect of my work also involves computational methods, such as probalistic modeling, to make explicit predictions about recursive reasoning in communication.
 
-Before starting at USC, I received a BA and MA from Michigan State University. For my MA, I studied phonotactic acceptability judgments using experimental methods from speech perception and was advised by [Karthik Durvasula](https://karthikdurvasula.gitlab.io/). 
-
+I also have started to work on phonetics (both learning and doing research), particularly devoted to my beloved and unstudied dialect, <i>Wuxue</i> Mandarin. 
