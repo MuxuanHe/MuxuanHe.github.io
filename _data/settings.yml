@@ -19,8 +19,11 @@ menu:
 
 
 social:
-- {icon: 'github', link: 'https://github.com/darbygrachek'}
-- {icon: 'linkedin', link: 'https://www.linkedin.com/in/darby-grachek-00b8861b7/'}
+- {icon: 'github', link: 'https://github.com/MuxuanHe'}
+- {icon: 'linkedin', link: 'www.linkedin.com/in/muxuan-he-0048bb293/'}
+- {icon: 'osf', link: 'https://osf.io/yrufk/'}
+- {icon: 'google scholar', link: 'https://scholar.google.com/citations?user=9Mm_PL0AAAAJ&hl=en'}
+
 
 contacts:
-- {name: 'Darby Grachek', department: 'Department of Linguistics', institution: 'University of Southern California', institution_address: '3601 Watt Way Los Angeles, CA 90089', email: 'grachek[at]usc[dot]edu', office: 'Grace Ford Salvatori Hall 303B', image: 'profile_image3.png'}
+- {name: 'Muxuan He', department: 'Department of Linguistics', institution: 'University of Southern California', institution_address: '3601 Watt Way Los Angeles, CA 90089', email: 'muxuanhe[at]usc[dot]edu', office: 'Grace Ford Salvatori Hall 303B'}
