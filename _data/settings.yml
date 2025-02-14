@@ -1,0 +1,26 @@
+menu:
+- {name: 'home', url: ''}
+- {name: 'research', url: '/publications'}
+# - {name: 'teaching', url: '/courses'}
+- {name: 'cv', url: '/cv'}
+- {name: 'contact', url: '/contact'}
+
+#presentations:
+#- {course: 'USC LING 115 (Language and Society)', title: 'Teaching Assistant', dates: 'Aug 2023 - Dec 2023' }
+#- {course: 'USC LING 210 (Intro to Linguistics)', title: 'Teaching Assistant', dates: 'Aug 2023 - Dec 2023'}
+#- {course: 'MSU LIN 230 (Languages of the World)', title: 'Graduate Instructor', dates: 'June 2020 - August 2020'}
+
+
+
+#courses:
+#- {course: 'USC LING 115 (Language and Society)', title: 'Teaching Assistant', dates: 'Aug 2023 - Dec 2023' }
+#- {course: 'USC LING 210 (Intro to Linguistics)', title: 'Teaching Assistant', dates: 'Aug 2023 - Dec 2023'}
+#- {course: 'MSU LIN 230 (Languages of the World)', title: 'Graduate Instructor', dates: 'June 2020 - August 2020'}
+
+
+social:
+- {icon: 'github', link: 'https://github.com/darbygrachek'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/darby-grachek-00b8861b7/'}
+
+contacts:
+- {name: 'Darby Grachek', department: 'Department of Linguistics', institution: 'University of Southern California', institution_address: '3601 Watt Way Los Angeles, CA 90089', email: 'grachek[at]usc[dot]edu', office: 'Grace Ford Salvatori Hall 303B', image: 'profile_image3.png'}

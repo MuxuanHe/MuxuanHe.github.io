@@ -1,0 +1,58 @@
+<div class="row g-5 mb-5">
+  <div>
+    <!-- Main Title with Large Heading and Divider -->
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Research</h3>
+
+    <!-- Section 1: Specific Interests 
+    <h4 class="mb-4">Specific Interests</h4>
+    {% for item in site.data.publications.specific_interests %}
+      <p>
+        {% if item.url %}
+          <a href="{{ item.url }}">{{ item.name }}</a>
+        {% else %}
+          {{ item.name }}
+        {% endif %}
+      </p>
+    {% endfor %} -->
+
+    <!-- Section 2: Conference Presentations -->
+    <h4 class="mb-4">Conference Presentations</h4>
+    {% for item in site.data.publications.conference_presentations %}
+      <p>
+        {{ item.date }}. 
+        <a href="{{ item.title_url }}">{{ item.title }}</a>
+        {% if item.additional_author %}
+          {% if item.additional_author_url %}
+            . {{ item.additional_author }} 
+            <a href="{{ item.additional_author_url }}">(link)</a>
+          {% else %}
+            . {{ item.additional_author }}
+          {% endif %}
+        {% endif %}
+        . {{ item.conference_name }}. 
+        {{ item.presentation_type | downcase }}.
+      </p>
+    {% endfor %}
+
+<br>
+<br>
+    
+    <!-- Section 3: Journal Articles and Proceedings -->
+    <h4 class="mb-4">Journal Articles and Proceedings</h4>
+    {% for item in site.data.publications.journal_articles_and_proceedings %}
+      <p>
+        {{ item.name }} 
+        {% if item.url %}
+          <a href="{{ item.url }}">{{ item.url }}</a>
+        {% endif %}
+      </p>
+    {% endfor %}
+  </div>
+</div>
+
+
+
+
+
+
+

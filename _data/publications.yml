@@ -1,0 +1,56 @@
+#publications:
+  specific_interests:
+    - {name: 'What is the nature of the relationship between the lexicon and the phonological grammar?'}
+    
+  conference_presentations:
+    - date: 'Nov. 2024 (upcoming)'
+      title: 'A link between phonology and the lexicon: Morphophonological exceptionality and decomposition in English stress shift'
+      title_url: '/publications/AMP2024_submission.pdf'
+      #additional_author: ''
+      #additional_author_url: ''
+      conference_name: '2024 Annual Meeting on Phonology'
+      presentation_type: 'Poster'
+
+    - date: '2024'
+      title: 'Phonological learning is asymmetrical between prefixes and suffixes'
+      title_url: '/publications/LSA24_prefix_poster.jpg'
+      #additional_author: ''
+      #additional_author_url: ''
+      conference_name: 'Linguistic Society of America 2024 Annual Meeting'
+      presentation_type: 'Poster'
+
+    - date: '2023'
+      title: 'Phonological learning is asymmetrical between prefixes and suffixes'
+      title_url: '/publications/grachek_kaiser_AMP23_poster.pdf'
+      #additional_author: ''
+      #additional_author_url: ''
+      conference_name: '2023 Annual Meeting on Phonology'
+      presentation_type: 'Poster'
+
+    - date: '2023'
+      title: 'Weight-sensitive prosodification of prefixes in Karuk'
+      title_url: '/publications/KumaranGrachek_AMP_2023_paper_60_poster.pdf'
+      additional_author: 'with Elango Kumaran'
+      additional_author_url: 'https://sites.google.com/usc.edu/elango/'
+      conference_name: '2023 Annual Meeting on Phonology'
+      presentation_type: 'Poster'
+
+    - date: '2019'
+      title: 'Competition Between Past and Perfect'
+      title_url: '/publications/uuraf_2019_poster.pdf'
+      additional_author: 'with Kerry Berres, Jett Hampton, Sarah Jones, Hollie Nusbaum, and Sarah Sirna'
+      #additional_author_url: ' '
+      conference_name: 'University Undergraduate Research and Arts Forum'
+      presentation_type: 'Poster'
+
+    - date: '2019'
+      title: 'Playing with the Perfect'
+      title_url: '/publications/uuraf_2019_poster2.pdf'
+      additional_author: 'with Kerry Berres, Jett Hampton, Sarah Jones, Hollie Nusbaum, and Sarah Sirna'
+      #additional_author_url: ' '
+      conference_name: 'University Undergraduate Research and Arts Forum'
+      presentation_type: 'Poster'
+
+    
+  journal_articles_and_proceedings:
+    - {name: 'Grachek, Darby, and Elsi Kaiser. 2024. “Phonological Learning Is Asymmetrical Between Prefixes and Suffixes”. Proceedings of the Linguistic Society of America 9 (1): 5743', url: 'https://doi.org/10.3765/plsa.v9i1.5743'}
