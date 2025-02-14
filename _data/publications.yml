@@ -8,54 +8,49 @@
     - {name: 'Hao, Hailin, Muxuan He, & Zuzanna Fuchs. 2024. “Greta is a female director: When gender stereotypes interact with informativity expectations.” In
 Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 46).', 
     url: 'https://escholarship.org/content/qt49d0685w/qt49d0685w_noSplash_3d424091a761f8d27004dad318da3f5c.pdf'}
-
+    - {name: 'Hao, Hailin, & He, Muxuan. Can Large Language Model Surprisal Capture the Informativity Bias in Human Language Processing?. In International Symposium on Distributed Computing and Artificial
+Intelligence (pp. 178-185).', 
+    url: 'https://link.springer.com/chapter/10.1007/978-3-031-38318-2_18'}
+    
   conference_presentations:
-    - date: 'Nov. 2024 (upcoming)'
-      title: 'A link between phonology and the lexicon: Morphophonological exceptionality and decomposition in English stress shift'
-      title_url: '/publications/AMP2024_submission.pdf'
-      #additional_author: ''
-      #additional_author_url: ''
-      conference_name: '2024 Annual Meeting on Phonology'
-      presentation_type: 'Poster'
-
     - date: '2024'
-      title: 'Phonological learning is asymmetrical between prefixes and suffixes'
-      title_url: '/publications/LSA24_prefix_poster.jpg'
-      #additional_author: ''
+      title: 'Affirmatives vs. Negatives: A complementary relation in probabilistic sentence processing.'
+      # title_url: ''
+      additional_author: 'with Elsi Kaiser'
       #additional_author_url: ''
-      conference_name: 'Linguistic Society of America 2024 Annual Meeting'
+      conference_name: 'Chicago Linguistic Society 58'
+      presentation_type: 'Talk'
+
+    - date: '2023'
+      title: 'How informative do we need to be? Asymmetry effects of informativity in the processing of affirmative and negative sentences.'
+      title_url: 'https://osf.io/u6gyv'
+      additional_author: 'with Elsi Kaiser'
+      #additional_author_url: ''
+      conference_name: 'AMLaP 2023'
+      presentation_type: 'Talk'
+
+    - date: '2023'
+      title: 'Can Large Language Model Surprisal Capture the Informativity Bias in Human Language Processing?.'
+      title_url: 'https://osf.io/w3vds'
+      additional_author: 'with Hailin Hao'
+      #additional_author_url: ''
+      conference_name: 'AMLaP 2023'
       presentation_type: 'Poster'
 
     - date: '2023'
-      title: 'Phonological learning is asymmetrical between prefixes and suffixes'
-      title_url: '/publications/grachek_kaiser_AMP23_poster.pdf'
-      #additional_author: ''
-      #additional_author_url: ''
-      conference_name: '2023 Annual Meeting on Phonology'
-      presentation_type: 'Poster'
-
-    - date: '2023'
-      title: 'Weight-sensitive prosodification of prefixes in Karuk'
-      title_url: '/publications/KumaranGrachek_AMP_2023_paper_60_poster.pdf'
-      additional_author: 'with Elango Kumaran'
-      additional_author_url: 'https://sites.google.com/usc.edu/elango/'
-      conference_name: '2023 Annual Meeting on Phonology'
-      presentation_type: 'Poster'
-
-    - date: '2019'
-      title: 'Competition Between Past and Perfect'
-      title_url: '/publications/uuraf_2019_poster.pdf'
-      additional_author: 'with Kerry Berres, Jett Hampton, Sarah Jones, Hollie Nusbaum, and Sarah Sirna'
+      title: 'Not Too Surprising, Not Too Boring? The Goldilocks Effects of Likelihood on Real-time Processing.'
+      # title_url: ' '
+      additional_author: 'Elsi Kaiser'
       #additional_author_url: ' '
-      conference_name: 'University Undergraduate Research and Arts Forum'
+      conference_name: 'HSP 2023'
       presentation_type: 'Poster'
 
-    - date: '2019'
-      title: 'Playing with the Perfect'
-      title_url: '/publications/uuraf_2019_poster2.pdf'
-      additional_author: 'with Kerry Berres, Jett Hampton, Sarah Jones, Hollie Nusbaum, and Sarah Sirna'
+    - date: '2022'
+      title: '-men or not -men: It does not seem to be a question.'
+      # title_url: ''
+      # additional_author: ' '
       #additional_author_url: ' '
-      conference_name: 'University Undergraduate Research and Arts Forum'
-      presentation_type: 'Poster'
+      conference_name: 'NWAV Asia-Pacific7'
+      presentation_type: 'Talk'
 
     
