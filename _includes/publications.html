@@ -35,7 +35,7 @@
         {{ item.date }}.
         {% if item.title_url %}
            . {{ item.title_url }}
-           <a href="{{ item.title_url }}">{{ item.title }}</a>
+           <a href="{{ item.title_url }}">{{ item.title}}</a>
         {% else %}
             {{ item.title }}
         {% endif %}
@@ -44,7 +44,7 @@
             . {{ item.additional_author }} 
             <a href="{{ item.additional_author_url }}">(link)</a>
           {% else %}
-            . {{ item.additional_author }}
+            . {{ item.additional_author}}
           {% endif %}
         {% endif %}
         . {{ item.conference_name }}. 
