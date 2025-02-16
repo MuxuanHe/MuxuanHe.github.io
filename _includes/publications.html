@@ -37,7 +37,7 @@
            . {{ item.title_url }}
            <a href="{{ item.title_url }}">{{ item.title }}</a>
         {% else %}
-            . {{ item.title }}
+            {{ item.title }}
         {% endif %}
         {% if item.additional_author %}
           {% if item.additional_author_url %}
