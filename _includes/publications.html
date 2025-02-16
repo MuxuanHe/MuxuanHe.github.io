@@ -43,7 +43,7 @@
           {% endif %}
         {% endif %}
         . {{ item.conference_name }}. 
-        {{ item.presentation_type | downcase }}.
+        {{ item.presentation_type | capitalize }}.
       </p>
     {% endfor %}
 
