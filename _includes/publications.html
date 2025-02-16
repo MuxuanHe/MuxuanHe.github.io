@@ -32,8 +32,13 @@
     <h4 class="mb-4">Conference Presentations</h4>
     {% for item in site.data.publications.conference_presentations %}
       <p>
-        {{ item.date }}. 
-        <a href="{{ item.title_url }}">{{ item.title }}</a>
+        {{ item.date }}.
+        {% if item.title_url %}
+           . {{ item.title_url }}
+           <a href="{{ item.title_url }}">{{ item.title }}</a>
+        {% else %}
+            . {{ item.title }}
+        {% endif %}
         {% if item.additional_author %}
           {% if item.additional_author_url %}
             . {{ item.additional_author }} 
