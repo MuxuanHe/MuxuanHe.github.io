@@ -8,17 +8,19 @@
 
 The following sections describe usage instructions for this Jekyll theme,including available layouts, includes, sass and/or assets.
 
+### website modules
+
+The '_data/settings.yml' defines what modules the website shows.
+
 #### Home
 
-The `_layouts/home.html` layout defines the home page for this theme. An introduction to your research group or to yourself can be provided, along with a list of featured publications. There is also a section for providing any updates through posts placed in the `_posts` directory.
-
-#### People
-
-The `_layouts/people.html` layout can be used to showcase and describe people in your research group. People are defined in the `_data/settings.yml` file, and markdown pages for each person with the `_layouts/page.html` layout can be placed in the `people` directory.
+The `_layouts/home.html` layout defines the home page for this theme. An introduction to your research group or to yourself can be provided.
+The 'index.md' is the content on the home page.
 
 #### Publications
 
-The `_layouts/publications.html` layout can be used to showcase selected publications, or the entire catalogue of publications. Direct links to the paper can be used, or a PDF copy of the paper can be served. Publications are defined in the `_data/publications.yml` file, and any PDF files that are served can be placed in the `publications` directory.
+Publications (the content) are defined in the `_data/publications.yml` file, and any PDF files that are served can be placed in the `publications` directory.
+The '_includes/publications.html' defines the aesthetics of the publications page.
 
 #### Courses
 
@@ -26,7 +28,7 @@ The `_layouts/courses.html` layout can be used to showcase courses that were tau
 
 #### CV
 
-The `_layouts/cv.html` layout can be used to showcase a curriculum vitae. The sections of the cv are defined in the `_data/cv` directory, where each section has its own `<section>.yml` file.
+The `_layouts/cv.html` layout can be used to showcase a curriculum vitae. (The sections of the cv are defined in the `_data/cv` directory, where each section has its own `<section>.yml` file.
 
 #### Contact
 
