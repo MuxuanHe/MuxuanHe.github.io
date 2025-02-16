@@ -14,4 +14,4 @@ social:
 
 
 contacts:
-- {name: 'Muxuan He', department: 'Department of Linguistics', institution: 'University of Southern California', institution_address: '3601 Watt Way Los Angeles, CA 90089', email: 'muxuanhe[at]usc[dot]edu', office: 'Grace Ford Salvatori Hall 303B'}
+- {institution_address: '3601 Watt Way Los Angeles, CA 90089', email: 'muxuanhe[at]usc[dot]edu', office: 'Department of Linguistics'}
