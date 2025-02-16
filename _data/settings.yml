@@ -5,18 +5,6 @@ menu:
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
-#presentations:
-#- {course: 'USC LING 115 (Language and Society)', title: 'Teaching Assistant', dates: 'Aug 2023 - Dec 2023' }
-#- {course: 'USC LING 210 (Intro to Linguistics)', title: 'Teaching Assistant', dates: 'Aug 2023 - Dec 2023'}
-#- {course: 'MSU LIN 230 (Languages of the World)', title: 'Graduate Instructor', dates: 'June 2020 - August 2020'}
-
-
-
-#courses:
-#- {course: 'USC LING 115 (Language and Society)', title: 'Teaching Assistant', dates: 'Aug 2023 - Dec 2023' }
-#- {course: 'USC LING 210 (Intro to Linguistics)', title: 'Teaching Assistant', dates: 'Aug 2023 - Dec 2023'}
-#- {course: 'MSU LIN 230 (Languages of the World)', title: 'Graduate Instructor', dates: 'June 2020 - August 2020'}
-
 
 social:
 - {icon: 'github', link: 'https://github.com/MuxuanHe'}
