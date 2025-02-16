@@ -1,7 +1,7 @@
 menu:
 - {name: 'home', url: ''}
 - {name: 'research', url: '/publications'}
-# - {name: 'teaching', url: '/courses'}
+#- {name: 'teaching', url: '/courses'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
