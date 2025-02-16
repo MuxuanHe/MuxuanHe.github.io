@@ -5,10 +5,10 @@
   journal_articles_and_proceedings:
     - {name: '<b> He, Muxuan </b>, & Elsi Kaiser. 2025. “Affirmatives vs. Negatives: A complementary relation in probabilistic sentence processing.” To appear in Proceedings of Chicago Linguistic Society 58.', 
     url: 'https://osf.io/h546v'}
-    - {name: 'Hao, Hailin, Muxuan He, & Zuzanna Fuchs. 2024. “Greta is a female director: When gender stereotypes interact with informativity expectations.” In
+    - {name: 'Hao, Hailin, <b> Muxuan He </b>, & Zuzanna Fuchs. 2024. “Greta is a female director: When gender stereotypes interact with informativity expectations.” In
 Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 46).', 
     url: 'https://escholarship.org/content/qt49d0685w/qt49d0685w_noSplash_3d424091a761f8d27004dad318da3f5c.pdf'}
-    - {name: 'Hao, Hailin, & He, Muxuan. 2023. Can Large Language Model Surprisal Capture the Informativity Bias in Human Language Processing?. In International Symposium on Distributed Computing and Artificial
+    - {name: 'Hao, Hailin, & <b> Muxuan He </b>. 2023. Can Large Language Model Surprisal Capture the Informativity Bias in Human Language Processing?. In International Symposium on Distributed Computing and Artificial
 Intelligence (pp. 178-185).', 
     url: 'https://link.springer.com/chapter/10.1007/978-3-031-38318-2_18'}
     
@@ -46,7 +46,7 @@ Intelligence (pp. 178-185).',
       presentation_type: 'Poster'
 
     - date: '2022'
-      title: '-men or not -men: It does not seem to be a question'
+      title: '<i> -men </i> or not <i> -men </i> (Chinese plural marker): It does not seem to be a question'
       # title_url: ''
       # additional_author: ' '
       #additional_author_url: ' '
